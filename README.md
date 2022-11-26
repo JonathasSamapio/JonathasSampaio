@@ -15,6 +15,7 @@ Segue meu Linkedin:
 </a>
 
 
+[![Jonathas stats](https://github-readme-stats.vercel.app/api?username=jonathasSampaio82)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JonathasSampaio82)](https://github.com/anuraghazra/github-readme-stats)
